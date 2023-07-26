@@ -11,8 +11,6 @@ public class Main_for_task7and8 {
 
 
     private static int[] changeValue7q(int[] value) {
-//        value[0] = 1;
-//        value[1] = 2;
         return value = new int[]{1, 2};
     }
 
